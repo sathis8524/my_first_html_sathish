@@ -1,0 +1,420 @@
+<!DOCTYPE html>
+<!-- saved from url=(0054)https://tandematic.com/project/gum-application-system/ -->
+<html lang="en-US" class="js supports no-touchevents no-forcetouch objectfit object-fit cssanimations no-cssgridlegacy cssgrid cssfilters csstransforms csstransforms3d csstransitions mobile-false js_active vc_desktop vc_transform not-iOS" style="--the7-vh: 5.79px; height: 100%;"><!--<![endif]--><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+	
+		<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=0">
+		<meta name="theme-color" content="#015282">	<link rel="profile" href="https://gmpg.org/xfn/11">
+	<title>Gum Application System – Tandematic</title>
+<meta name="robots" content="max-image-preview:large">
+<link rel="dns-prefetch" href="https://translate.google.com/">
+<link rel="dns-prefetch" href="https://fonts.googleapis.com/">
+<link rel="alternate" type="application/rss+xml" title="Tandematic » Feed" href="https://tandematic.com/feed/">
+<link rel="alternate" type="application/rss+xml" title="Tandematic » Comments Feed" href="https://tandematic.com/comments/feed/">
+<script type="text/javascript" async="" src="./gumimg_files/analytics.js.download"></script><script type="text/javascript" async="" src="./gumimg_files/js"></script><script>
+window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/15.0.3\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/15.0.3\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/tandematic.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=6.5.5"}};
+/*! This file is auto-generated */
+!function(i,n){var o,s,e;function c(e){try{var t={supportTests:e,timestamp:(new Date).valueOf()};sessionStorage.setItem(o,JSON.stringify(t))}catch(e){}}function p(e,t,n){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);var t=new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data),r=(e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(n,0,0),new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data));return t.every(function(e,t){return e===r[t]})}function u(e,t,n){switch(t){case"flag":return n(e,"\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f","\ud83c\udff3\ufe0f\u200b\u26a7\ufe0f")?!1:!n(e,"\ud83c\uddfa\ud83c\uddf3","\ud83c\uddfa\u200b\ud83c\uddf3")&&!n(e,"\ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc65\udb40\udc6e\udb40\udc67\udb40\udc7f","\ud83c\udff4\u200b\udb40\udc67\u200b\udb40\udc62\u200b\udb40\udc65\u200b\udb40\udc6e\u200b\udb40\udc67\u200b\udb40\udc7f");case"emoji":return!n(e,"\ud83d\udc26\u200d\u2b1b","\ud83d\udc26\u200b\u2b1b")}return!1}function f(e,t,n){var r="undefined"!=typeof WorkerGlobalScope&&self instanceof WorkerGlobalScope?new OffscreenCanvas(300,150):i.createElement("canvas"),a=r.getContext("2d",{willReadFrequently:!0}),o=(a.textBaseline="top",a.font="600 32px Arial",{});return e.forEach(function(e){o[e]=t(a,e,n)}),o}function t(e){var t=i.createElement("script");t.src=e,t.defer=!0,i.head.appendChild(t)}"undefined"!=typeof Promise&&(o="wpEmojiSettingsSupports",s=["flag","emoji"],n.supports={everything:!0,everythingExceptFlag:!0},e=new Promise(function(e){i.addEventListener("DOMContentLoaded",e,{once:!0})}),new Promise(function(t){var n=function(){try{var e=JSON.parse(sessionStorage.getItem(o));if("object"==typeof e&&"number"==typeof e.timestamp&&(new Date).valueOf()<e.timestamp+604800&&"object"==typeof e.supportTests)return e.supportTests}catch(e){}return null}();if(!n){if("undefined"!=typeof Worker&&"undefined"!=typeof OffscreenCanvas&&"undefined"!=typeof URL&&URL.createObjectURL&&"undefined"!=typeof Blob)try{var e="postMessage("+f.toString()+"("+[JSON.stringify(s),u.toString(),p.toString()].join(",")+"));",r=new Blob([e],{type:"text/javascript"}),a=new Worker(URL.createObjectURL(r),{name:"wpTestEmojiSupports"});return void(a.onmessage=function(e){c(n=e.data),a.terminate(),t(n)})}catch(e){}c(n=f(s,u,p))}t(n)}).then(function(e){for(var t in e)n.supports[t]=e[t],n.supports.everything=n.supports.everything&&n.supports[t],"flag"!==t&&(n.supports.everythingExceptFlag=n.supports.everythingExceptFlag&&n.supports[t]);n.supports.everythingExceptFlag=n.supports.everythingExceptFlag&&!n.supports.flag,n.DOMReady=!1,n.readyCallback=function(){n.DOMReady=!0}}).then(function(){return e}).then(function(){var e;n.supports.everything||(n.readyCallback(),(e=n.source||{}).concatemoji?t(e.concatemoji):e.wpemoji&&e.twemoji&&(t(e.twemoji),t(e.wpemoji)))}))}((window,document),window._wpemojiSettings);
+</script>
+<link rel="stylesheet" id="layerslider-css" href="./gumimg_files/layerslider.css" media="all">
+<style id="wp-emoji-styles-inline-css">
+
+	img.wp-smiley, img.emoji {
+		display: inline !important;
+		border: none !important;
+		box-shadow: none !important;
+		height: 1em !important;
+		width: 1em !important;
+		margin: 0 0.07em !important;
+		vertical-align: -0.1em !important;
+		background: none !important;
+		padding: 0 !important;
+	}
+</style>
+<link rel="stylesheet" id="wp-block-library-css" href="./gumimg_files/style.min.css" media="all">
+<style id="wp-block-library-theme-inline-css">
+.wp-block-audio figcaption{color:#555;font-size:13px;text-align:center}.is-dark-theme .wp-block-audio figcaption{color:#ffffffa6}.wp-block-audio{margin:0 0 1em}.wp-block-code{border:1px solid #ccc;border-radius:4px;font-family:Menlo,Consolas,monaco,monospace;padding:.8em 1em}.wp-block-embed figcaption{color:#555;font-size:13px;text-align:center}.is-dark-theme .wp-block-embed figcaption{color:#ffffffa6}.wp-block-embed{margin:0 0 1em}.blocks-gallery-caption{color:#555;font-size:13px;text-align:center}.is-dark-theme .blocks-gallery-caption{color:#ffffffa6}.wp-block-image figcaption{color:#555;font-size:13px;text-align:center}.is-dark-theme .wp-block-image figcaption{color:#ffffffa6}.wp-block-image{margin:0 0 1em}.wp-block-pullquote{border-bottom:4px solid;border-top:4px solid;color:currentColor;margin-bottom:1.75em}.wp-block-pullquote cite,.wp-block-pullquote footer,.wp-block-pullquote__citation{color:currentColor;font-size:.8125em;font-style:normal;text-transform:uppercase}.wp-block-quote{border-left:.25em solid;margin:0 0 1.75em;padding-left:1em}.wp-block-quote cite,.wp-block-quote footer{color:currentColor;font-size:.8125em;font-style:normal;position:relative}.wp-block-quote.has-text-align-right{border-left:none;border-right:.25em solid;padding-left:0;padding-right:1em}.wp-block-quote.has-text-align-center{border:none;padding-left:0}.wp-block-quote.is-large,.wp-block-quote.is-style-large,.wp-block-quote.is-style-plain{border:none}.wp-block-search .wp-block-search__label{font-weight:700}.wp-block-search__button{border:1px solid #ccc;padding:.375em .625em}:where(.wp-block-group.has-background){padding:1.25em 2.375em}.wp-block-separator.has-css-opacity{opacity:.4}.wp-block-separator{border:none;border-bottom:2px solid;margin-left:auto;margin-right:auto}.wp-block-separator.has-alpha-channel-opacity{opacity:1}.wp-block-separator:not(.is-style-wide):not(.is-style-dots){width:100px}.wp-block-separator.has-background:not(.is-style-dots){border-bottom:none;height:1px}.wp-block-separator.has-background:not(.is-style-wide):not(.is-style-dots){height:2px}.wp-block-table{margin:0 0 1em}.wp-block-table td,.wp-block-table th{word-break:normal}.wp-block-table figcaption{color:#555;font-size:13px;text-align:center}.is-dark-theme .wp-block-table figcaption{color:#ffffffa6}.wp-block-video figcaption{color:#555;font-size:13px;text-align:center}.is-dark-theme .wp-block-video figcaption{color:#ffffffa6}.wp-block-video{margin:0 0 1em}.wp-block-template-part.has-background{margin-bottom:0;margin-top:0;padding:1.25em 2.375em}
+</style>
+<style id="classic-theme-styles-inline-css">
+/*! This file is auto-generated */
+.wp-block-button__link{color:#fff;background-color:#32373c;border-radius:9999px;box-shadow:none;text-decoration:none;padding:calc(.667em + 2px) calc(1.333em + 2px);font-size:1.125em}.wp-block-file__button{background:#32373c;color:#fff;text-decoration:none}
+</style>
+<style id="global-styles-inline-css">
+body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #FFF;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--color--accent: #015282;--wp--preset--color--dark-gray: #111;--wp--preset--color--light-gray: #767676;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgba(255, 255, 255, 1), 6px 6px rgba(0, 0, 0, 1);--wp--preset--shadow--crisp: 6px 6px 0px rgba(0, 0, 0, 1);}:where(.is-layout-flex){gap: 0.5em;}:where(.is-layout-grid){gap: 0.5em;}body .is-layout-flex{display: flex;}body .is-layout-flex{flex-wrap: wrap;align-items: center;}body .is-layout-flex > *{margin: 0;}body .is-layout-grid{display: grid;}body .is-layout-grid > *{margin: 0;}:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+.wp-block-navigation a:where(:not(.wp-element-button)){color: inherit;}
+:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}
+:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}
+.wp-block-pullquote{font-size: 1.5em;line-height: 1.6;}
+</style>
+<link rel="stylesheet" id="google-language-translator-css" href="./gumimg_files/style.css" media="">
+<link rel="stylesheet" id="glt-toolbar-styles-css" href="./gumimg_files/toolbar.css" media="">
+<link rel="stylesheet" id="the7-font-css" href="./gumimg_files/icomoon-the7-font.min.css" media="all">
+<link rel="stylesheet" id="the7-awesome-fonts-css" href="./gumimg_files/all.min.css" media="all">
+<link rel="stylesheet" id="the7-awesome-fonts-back-css" href="./gumimg_files/back-compat.min.css" media="all">
+<link rel="stylesheet" id="the7-Defaults-css" href="./gumimg_files/Defaults.css" media="all">
+<link rel="stylesheet" id="the7-fontello-css" href="./gumimg_files/fontello.min.css" media="all">
+<link rel="stylesheet" id="js_composer_front-css" href="./gumimg_files/js_composer.min.css" media="all">
+<link rel="stylesheet" id="dt-web-fonts-css" href="./gumimg_files/css" media="all">
+<link rel="stylesheet" id="dt-main-css" href="./gumimg_files/main.min.css" media="all">
+<style id="dt-main-inline-css">
+body #load {
+  display: block;
+  height: 100%;
+  overflow: hidden;
+  position: fixed;
+  width: 100%;
+  z-index: 9901;
+  opacity: 1;
+  visibility: visible;
+  transition: all .35s ease-out;
+}
+.load-wrap {
+  width: 100%;
+  height: 100%;
+  background-position: center center;
+  background-repeat: no-repeat;
+  text-align: center;
+  display: -ms-flexbox;
+  display: -ms-flex;
+  display: flex;
+  -ms-align-items: center;
+  -ms-flex-align: center;
+  align-items: center;
+  -ms-flex-flow: column wrap;
+  flex-flow: column wrap;
+  -ms-flex-pack: center;
+  -ms-justify-content: center;
+  justify-content: center;
+}
+.load-wrap > svg {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%,-50%);
+}
+#load {
+  background: var(--the7-elementor-beautiful-loading-bg,#ffffff);
+  --the7-beautiful-spinner-color2: var(--the7-beautiful-spinner-color,#015282);
+}
+
+</style>
+<link rel="stylesheet" id="the7-custom-scrollbar-css" href="./gumimg_files/custom-scrollbar.min.css" media="all">
+<link rel="stylesheet" id="the7-wpbakery-css" href="./gumimg_files/wpbakery.min.css" media="all">
+<link rel="stylesheet" id="the7-core-css" href="./gumimg_files/post-type.min.css" media="all">
+<link rel="stylesheet" id="the7-css-vars-css" href="./gumimg_files/css-vars.css" media="all">
+<link rel="stylesheet" id="dt-custom-css" href="./gumimg_files/custom.css" media="all">
+<link rel="stylesheet" id="dt-media-css" href="./gumimg_files/media.css" media="all">
+<link rel="stylesheet" id="the7-mega-menu-css" href="./gumimg_files/mega-menu.css" media="all">
+<link rel="stylesheet" id="the7-elements-albums-portfolio-css" href="./gumimg_files/the7-elements-albums-portfolio.css" media="all">
+<link rel="stylesheet" id="the7-elements-css" href="./gumimg_files/post-type-dynamic.css" media="all">
+<link rel="stylesheet" id="style-css" href="./gumimg_files/style(1).css" media="all">
+<script src="./gumimg_files/jquery.min.js.download" id="jquery-core-js"></script>
+<script src="./gumimg_files/jquery-migrate.min.js.download" id="jquery-migrate-js"></script>
+<script id="layerslider-greensock-js-extra">
+var LS_Meta = {"v":"6.10.0"};
+</script>
+<script src="./gumimg_files/greensock.js.download" id="layerslider-greensock-js"></script>
+<script src="./gumimg_files/layerslider.kreaturamedia.jquery.js.download" id="layerslider-js"></script>
+<script src="./gumimg_files/layerslider.transitions.js.download" id="layerslider-transitions-js"></script>
+<script id="dt-above-fold-js-extra">
+var dtLocal = {"themeUrl":"https:\/\/tandematic.com\/wp-content\/themes\/dt-the7","passText":"To view this protected post, enter the password below:","moreButtonText":{"loading":"Loading...","loadMore":"Load more"},"postID":"52593","ajaxurl":"https:\/\/tandematic.com\/wp-admin\/admin-ajax.php","REST":{"baseUrl":"https:\/\/tandematic.com\/wp-json\/the7\/v1","endpoints":{"sendMail":"\/send-mail"}},"contactMessages":{"required":"One or more fields have an error. Please check and try again.","terms":"Please accept the privacy policy.","fillTheCaptchaError":"Please, fill the captcha."},"captchaSiteKey":"","ajaxNonce":"cfa62a6e00","pageData":"","themeSettings":{"smoothScroll":"off","lazyLoading":false,"desktopHeader":{"height":100},"ToggleCaptionEnabled":"disabled","ToggleCaption":"Navigation","floatingHeader":{"showAfter":140,"showMenu":true,"height":60,"logo":{"showLogo":true,"html":"<img class=\" preload-me\" src=\"https:\/\/tandematic.com\/wp-content\/uploads\/2018\/09\/Tandematic.png\" srcset=\"https:\/\/tandematic.com\/wp-content\/uploads\/2018\/09\/Tandematic.png 311w, https:\/\/tandematic.com\/wp-content\/uploads\/2018\/09\/Tandematic.png 311w\" width=\"311\" height=\"122\"   sizes=\"311px\" alt=\"Tandematic\" \/>","url":"https:\/\/tandematic.com\/"}},"topLine":{"floatingTopLine":{"logo":{"showLogo":false,"html":""}}},"mobileHeader":{"firstSwitchPoint":1050,"secondSwitchPoint":778,"firstSwitchPointHeight":80,"secondSwitchPointHeight":60,"mobileToggleCaptionEnabled":"disabled","mobileToggleCaption":"Menu"},"stickyMobileHeaderFirstSwitch":{"logo":{"html":"<img class=\" preload-me\" src=\"https:\/\/tandematic.com\/wp-content\/uploads\/2018\/09\/TandematicWhite.png\" srcset=\"https:\/\/tandematic.com\/wp-content\/uploads\/2018\/09\/TandematicWhite.png 311w, https:\/\/tandematic.com\/wp-content\/uploads\/2018\/09\/TandematicWhite.png 311w\" width=\"311\" height=\"122\"   sizes=\"311px\" alt=\"Tandematic\" \/>"}},"stickyMobileHeaderSecondSwitch":{"logo":{"html":""}},"sidebar":{"switchPoint":990},"boxedWidth":"1340px"},"VCMobileScreenWidth":"768"};
+var dtShare = {"shareButtonText":{"facebook":"Share on Facebook","twitter":"Share on X","pinterest":"Pin it","linkedin":"Share on Linkedin","whatsapp":"Share on Whatsapp"},"overlayOpacity":"85"};
+</script>
+<script src="./gumimg_files/above-the-fold.min.js.download" id="dt-above-fold-js"></script>
+<script></script><meta name="generator" content="Powered by LayerSlider 6.10.0 - Multi-Purpose, Responsive, Parallax, Mobile-Friendly Slider Plugin for WordPress.">
+<!-- LayerSlider updates and docs at: https://layerslider.kreaturamedia.com -->
+<link rel="https://api.w.org/" href="https://tandematic.com/wp-json/"><link rel="alternate" type="application/json" href="https://tandematic.com/wp-json/wp/v2/dt_portfolio/52593"><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://tandematic.com/xmlrpc.php?rsd">
+<link rel="canonical" href="https://tandematic.com/project/gum-application-system/">
+<link rel="shortlink" href="https://tandematic.com/?p=52593">
+<link rel="alternate" type="application/json+oembed" href="https://tandematic.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Ftandematic.com%2Fproject%2Fgum-application-system%2F">
+<link rel="alternate" type="text/xml+oembed" href="https://tandematic.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Ftandematic.com%2Fproject%2Fgum-application-system%2F&amp;format=xml">
+<style>p.hello{font-size:12px;color:darkgray;}#google_language_translator,#flags{text-align:left;}#google_language_translator{clear:both;}#flags{width:165px;}#flags a{display:inline-block;margin-right:2px;}#google_language_translator{width:auto!important;}div.skiptranslate.goog-te-gadget{display:inline!important;}.goog-tooltip{display: none!important;}.goog-tooltip:hover{display: none!important;}.goog-text-highlight{background-color:transparent!important;border:none!important;box-shadow:none!important;}#google_language_translator{color:transparent;}body{top:0px!important;}#goog-gt-{display:none!important;}font font{background-color:transparent!important;box-shadow:none!important;position:initial!important;}</style><script type="text/javascript">
+(function(url){
+	if(/(?:Chrome\/26\.0\.1410\.63 Safari\/537\.31|WordfenceTestMonBot)/.test(navigator.userAgent)){ return; }
+	var addEvent = function(evt, handler) {
+		if (window.addEventListener) {
+			document.addEventListener(evt, handler, false);
+		} else if (window.attachEvent) {
+			document.attachEvent('on' + evt, handler);
+		}
+	};
+	var removeEvent = function(evt, handler) {
+		if (window.removeEventListener) {
+			document.removeEventListener(evt, handler, false);
+		} else if (window.detachEvent) {
+			document.detachEvent('on' + evt, handler);
+		}
+	};
+	var evts = 'contextmenu dblclick drag dragend dragenter dragleave dragover dragstart drop keydown keypress keyup mousedown mousemove mouseout mouseover mouseup mousewheel scroll'.split(' ');
+	var logHuman = function() {
+		if (window.wfLogHumanRan) { return; }
+		window.wfLogHumanRan = true;
+		var wfscr = document.createElement('script');
+		wfscr.type = 'text/javascript';
+		wfscr.async = true;
+		wfscr.src = url + '&r=' + Math.random();
+		(document.getElementsByTagName('head')[0]||document.getElementsByTagName('body')[0]).appendChild(wfscr);
+		for (var i = 0; i < evts.length; i++) {
+			removeEvent(evts[i], logHuman);
+		}
+	};
+	for (var i = 0; i < evts.length; i++) {
+		addEvent(evts[i], logHuman);
+	}
+})('//tandematic.com/?wordfence_lh=1&hid=736046574FC5EFE0A047D723C70176B7');
+</script><meta property="og:site_name" content="Tandematic">
+<meta property="og:title" content="Gum Application System">
+<meta property="og:image" content="https://tandematic.com/wp-content/uploads/2019/05/Gum_Application.png">
+<meta property="og:url" content="https://tandematic.com/project/gum-application-system/">
+<meta property="og:type" content="article">
+<meta name="generator" content="Powered by WPBakery Page Builder - drag and drop page builder for WordPress.">
+<script type="text/javascript" id="the7-loader-script">
+document.addEventListener("DOMContentLoaded", function(event) {
+	var load = document.getElementById("load");
+	if(!load.classList.contains('loader-removed')){
+		var removeLoading = setTimeout(function() {
+			load.className += " loader-removed";
+		}, 300);
+	}
+});
+</script>
+		<style type="text/css" data-type="vc_shortcodes-default-css">.vc_do_btn{margin-bottom:22px;}</style><noscript><style> .wpb_animate_when_almost_visible { opacity: 1; }</style></noscript><!-- Global site tag (gtag.js) - Google Analytics -->
+<script async="" src="./gumimg_files/js(1)"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-165392243-1');
+</script>
+
+<script type="text/javascript" async="" src="./gumimg_files/saved_resource"></script><link type="text/css" rel="stylesheet" charset="UTF-8" href="./gumimg_files/m=el_main_css"><script type="text/javascript" charset="UTF-8" src="./gumimg_files/m=el_main"></script><script src="./gumimg_files/wp-emoji-release.min.js.download" defer=""></script></head>
+<body id="the7-body" class="dt_portfolio-template-default single single-portfolio postid-52593 wp-embed-responsive the7-core-ver-2.7.9 no-comments slideshow-on dt-responsive-on right-mobile-menu-close-icon ouside-menu-close-icon mobile-hamburger-close-bg-enable mobile-hamburger-close-bg-hover-enable fade-medium-mobile-menu-close-icon fade-medium-menu-close-icon srcset-enabled btn-flat custom-btn-color custom-btn-hover-color phantom-fade phantom-shadow-decoration phantom-custom-logo-on sticky-mobile-header top-header first-switch-logo-left first-switch-menu-right second-switch-logo-left second-switch-menu-right right-mobile-menu layzr-loading-on popup-message-style the7-ver-11.11.1 dt-fa-compatibility wpb-js-composer js-comp-ver-7.6 vc_responsive no-mobile" style="position: relative; min-height: 100%; top: 0px;">
+<!-- The7 11.11.1 -->
+<div id="load" class="spinner-loader loader-removed">
+	<div class="load-wrap"><style type="text/css">
+    [class*="the7-spinner-animate-"]{
+        animation: spinner-animation 1s cubic-bezier(1,1,1,1) infinite;
+        x:46.5px;
+        y:40px;
+        width:7px;
+        height:20px;
+        fill:var(--the7-beautiful-spinner-color2);
+        opacity: 0.2;
+    }
+    .the7-spinner-animate-2{
+        animation-delay: 0.083s;
+    }
+    .the7-spinner-animate-3{
+        animation-delay: 0.166s;
+    }
+    .the7-spinner-animate-4{
+         animation-delay: 0.25s;
+    }
+    .the7-spinner-animate-5{
+         animation-delay: 0.33s;
+    }
+    .the7-spinner-animate-6{
+         animation-delay: 0.416s;
+    }
+    .the7-spinner-animate-7{
+         animation-delay: 0.5s;
+    }
+    .the7-spinner-animate-8{
+         animation-delay: 0.58s;
+    }
+    .the7-spinner-animate-9{
+         animation-delay: 0.666s;
+    }
+    .the7-spinner-animate-10{
+         animation-delay: 0.75s;
+    }
+    .the7-spinner-animate-11{
+        animation-delay: 0.83s;
+    }
+    .the7-spinner-animate-12{
+        animation-delay: 0.916s;
+    }
+    @keyframes spinner-animation{
+        from {
+            opacity: 1;
+        }
+        to{
+            opacity: 0;
+        }
+    }
+</style>
+<svg width="75px" height="75px" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" preserveAspectRatio="xMidYMid">
+	<rect class="the7-spinner-animate-1" rx="5" ry="5" transform="rotate(0 50 50) translate(0 -30)"></rect>
+	<rect class="the7-spinner-animate-2" rx="5" ry="5" transform="rotate(30 50 50) translate(0 -30)"></rect>
+	<rect class="the7-spinner-animate-3" rx="5" ry="5" transform="rotate(60 50 50) translate(0 -30)"></rect>
+	<rect class="the7-spinner-animate-4" rx="5" ry="5" transform="rotate(90 50 50) translate(0 -30)"></rect>
+	<rect class="the7-spinner-animate-5" rx="5" ry="5" transform="rotate(120 50 50) translate(0 -30)"></rect>
+	<rect class="the7-spinner-animate-6" rx="5" ry="5" transform="rotate(150 50 50) translate(0 -30)"></rect>
+	<rect class="the7-spinner-animate-7" rx="5" ry="5" transform="rotate(180 50 50) translate(0 -30)"></rect>
+	<rect class="the7-spinner-animate-8" rx="5" ry="5" transform="rotate(210 50 50) translate(0 -30)"></rect>
+	<rect class="the7-spinner-animate-9" rx="5" ry="5" transform="rotate(240 50 50) translate(0 -30)"></rect>
+	<rect class="the7-spinner-animate-10" rx="5" ry="5" transform="rotate(270 50 50) translate(0 -30)"></rect>
+	<rect class="the7-spinner-animate-11" rx="5" ry="5" transform="rotate(300 50 50) translate(0 -30)"></rect>
+	<rect class="the7-spinner-animate-12" rx="5" ry="5" transform="rotate(330 50 50) translate(0 -30)"></rect>
+</svg></div>
+</div>
+<div id="page">
+	<a class="skip-link screen-reader-text" href="https://tandematic.com/project/gum-application-system/#content">Skip to content</a>
+
+<div class="mobile-header-space" style="height: 116px; top: 0px;"></div><div class="masthead inline-header right widgets full-height shadow-decoration shadow-mobile-header-decoration small-mobile-menu-icon dt-parent-menu-clickable show-sub-menu-on-hover show-mobile-logo masthead-mobile-header no-slider masthead-mobile sticky-mobile-on" role="banner" style="top: -36px;">
+
+	<div class="top-bar line-content top-bar-line-hide">
+	<div class="top-bar-bg"></div>
+	<div class="left-widgets mini-widgets"><span class="mini-contacts phone show-on-desktop in-top-bar-left near-logo-second-switch"><i class="fa-fw the7-mw-icon-phone-bold"></i>Tel: (336) 956-7026</span><span class="mini-contacts email show-on-desktop near-logo-first-switch in-menu-second-switch"><i class="fa-fw the7-mw-icon-mail-bold"></i>solutions@tandematic.com</span><span class="mini-contacts phone in-top-bar-left near-logo-second-switch hide-on-desktop show-on-first-switch hide-on-second-switch display-none first last"><i class="fa-fw the7-mw-icon-phone-bold"></i>Tel: (336) 956-7026</span></div><div class="right-widgets mini-widgets"><div class="soc-ico show-on-desktop in-top-bar-right in-menu-second-switch custom-bg disabled-border border-off hover-accent-bg hover-disabled-border hover-border-off"><a title="Linkedin page opens in new window" href="https://www.linkedin.com/company/navis-tubetex/" target="_blank" class="linkedin"><span class="soc-font-icon"></span><span class="screen-reader-text">Linkedin page opens in new window</span></a><a title="YouTube page opens in new window" href="https://www.youtube.com/user/jmytest01" target="_blank" class="you-tube"><span class="soc-font-icon"></span><span class="screen-reader-text">YouTube page opens in new window</span></a></div><div class="soc-ico in-top-bar-right in-menu-second-switch custom-bg disabled-border border-off hover-accent-bg hover-disabled-border hover-border-off hide-on-desktop show-on-first-switch display-none first last"><a title="Linkedin page opens in new window" href="https://www.linkedin.com/company/navis-tubetex/" target="_blank" class="linkedin"><span class="soc-font-icon"></span><span class="screen-reader-text">Linkedin page opens in new window</span></a><a title="YouTube page opens in new window" href="https://www.youtube.com/user/jmytest01" target="_blank" class="you-tube"><span class="soc-font-icon"></span><span class="screen-reader-text">YouTube page opens in new window</span></a></div></div></div>
+
+	<header class="header-bar">
+
+		<div class="branding">
+	<div id="site-title" class="assistive-text">Tandematic</div>
+	<div id="site-description" class="assistive-text"></div>
+	<a class="" href="https://tandematic.com/"><img class=" preload-me" src="./gumimg_files/TandematicWhite.png" srcset="https://tandematic.com/wp-content/uploads/2018/09/TandematicWhite.png 311w, https://tandematic.com/wp-content/uploads/2018/09/TandematicWhite.png 311w" width="311" height="122" sizes="311px" alt="Tandematic"></a></div>
+
+		<ul id="primary-menu" class="main-nav outside-item-remove-margin"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-52358 first depth-0"><a href="https://tandematic.com/" data-level="1"><span class="menu-item-text"><span class="menu-text">HOME</span></span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-52291 has-children depth-0"><a href="https://tandematic.com/about-us/" data-level="1"><span class="menu-item-text"><span class="menu-text">ABOUT</span></span></a><ul class="sub-nav hover-style-bg level-arrows-on"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-52300 first depth-1"><a href="https://tandematic.com/client-testimonials/" data-level="2"><span class="menu-item-text"><span class="menu-text">Client Testimonials</span></span></a></li> </ul></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-52396 depth-0"><a href="https://tandematic.com/equipment/" data-level="1"><span class="menu-item-text"><span class="menu-text">EQUIPMENT</span></span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-52567 depth-0"><a href="https://tandematic.com/media/" data-level="1"><span class="menu-item-text"><span class="menu-text">MEDIA</span></span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-52289 depth-0"><a href="https://tandematic.com/blog/blog-masonry/01-blog-masonry-classic/news/" data-level="1"><span class="menu-item-text"><span class="menu-text">NEWS</span></span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-52292 last depth-0"><a href="https://tandematic.com/pages/contact/contact/" data-level="1"><span class="menu-item-text"><span class="menu-text">CONTACT</span></span></a></li> </ul>
+		
+	</header>
+
+<div class="mobile-header-bar"><div class="mobile-navigation"><a href="https://tandematic.com/project/gum-application-system/#" class="dt-mobile-menu-icon" aria-label="Mobile menu icon"><div class="lines-button "><span class="menu-line"></span><span class="menu-line"></span><span class="menu-line"></span></div></a></div><div class="mobile-mini-widgets"><span class="mini-contacts email show-on-desktop near-logo-first-switch in-menu-second-switch show-on-first-switch first last"><i class="fa-fw the7-mw-icon-mail-bold"></i>solutions@tandematic.com</span><span class="mini-contacts phone show-on-desktop in-top-bar-left near-logo-second-switch show-on-second-switch"><i class="fa-fw the7-mw-icon-phone-bold"></i>Tel: (336) 956-7026</span></div><div class="mobile-branding"><a class="sticky-mobile-logo-first-switch" href="https://tandematic.com/"><img class=" preload-me" src="./gumimg_files/TandematicWhite.png" srcset="https://tandematic.com/wp-content/uploads/2018/09/TandematicWhite.png 311w, https://tandematic.com/wp-content/uploads/2018/09/TandematicWhite.png 311w" width="311" height="122" sizes="311px" alt="Tandematic"> </a><a class="" href="https://tandematic.com/"><img class=" preload-me" src="./gumimg_files/TandematicWhite.png" srcset="https://tandematic.com/wp-content/uploads/2018/09/TandematicWhite.png 311w, https://tandematic.com/wp-content/uploads/2018/09/TandematicWhite.png 311w" width="311" height="122" sizes="311px" alt="Tandematic"></a></div></div></div>
+<div role="navigation" class="dt-mobile-header mobile-menu-show-divider dt-parent-menu-clickable"><div class="mobile-header-scrollbar-wrap" style="max-width: 287px;">
+	<div class="dt-close-mobile-menu-icon"><div class="close-line-wrap"><span class="close-line"></span><span class="close-line"></span><span class="close-line"></span></div></div>	<ul id="mobile-menu" class="mobile-main-nav">
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-52358 first depth-0"><a href="https://tandematic.com/" data-level="1"><span class="menu-item-text"><span class="menu-text">HOME</span></span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-52291 has-children depth-0"><a href="https://tandematic.com/about-us/" data-level="1"><span class="menu-item-text"><span class="menu-text">ABOUT</span></span></a><i class="next-level-button"><svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 16 16" style="enable-background:new 0 0 16 16;" xml:space="preserve"><path d="M13.5,7H9V2.5c0-0.6-0.4-1-1-1s-1,0.4-1,1V7H2.5c-0.6,0-1,0.4-1,1s0.4,1,1,1H7v4.5c0,0.6,0.4,1,1,1s1-0.4,1-1V9h4.5c0.6,0,1-0.4,1-1S14.1,7,13.5,7z"></path></svg></i><ul class="sub-nav level-arrows-on"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-52300 first depth-1"><a href="https://tandematic.com/client-testimonials/" data-level="2"><span class="menu-item-text"><span class="menu-text">Client Testimonials</span></span></a></li> </ul></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-52396 depth-0"><a href="https://tandematic.com/equipment/" data-level="1"><span class="menu-item-text"><span class="menu-text">EQUIPMENT</span></span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-52567 depth-0"><a href="https://tandematic.com/media/" data-level="1"><span class="menu-item-text"><span class="menu-text">MEDIA</span></span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-52289 depth-0"><a href="https://tandematic.com/blog/blog-masonry/01-blog-masonry-classic/news/" data-level="1"><span class="menu-item-text"><span class="menu-text">NEWS</span></span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-52292 last depth-0"><a href="https://tandematic.com/pages/contact/contact/" data-level="1"><span class="menu-item-text"><span class="menu-text">CONTACT</span></span></a></li> 	</ul>
+	<div class="mobile-mini-widgets-in-menu first-switch-no-widgets"><span class="mini-contacts email show-on-desktop near-logo-first-switch in-menu-second-switch hide-on-desktop hide-on-first-switch show-on-second-switch"><i class="fa-fw the7-mw-icon-mail-bold"></i>solutions@tandematic.com</span><div class="soc-ico show-on-desktop in-top-bar-right in-menu-second-switch custom-bg disabled-border border-off hover-accent-bg hover-disabled-border hover-border-off hide-on-desktop hide-on-first-switch show-on-second-switch"><a title="Linkedin page opens in new window" href="https://www.linkedin.com/company/navis-tubetex/" target="_blank" class="linkedin"><span class="soc-font-icon"></span><span class="screen-reader-text">Linkedin page opens in new window</span></a><a title="YouTube page opens in new window" href="https://www.youtube.com/user/jmytest01" target="_blank" class="you-tube"><span class="soc-font-icon"></span><span class="screen-reader-text">YouTube page opens in new window</span></a></div></div>
+</div></div>
+
+
+<div id="main-slideshow" data-width="1200" data-height="500" data-autoslide="4000" data-scale="fill" data-paused="false" class="empty-slider"><div class="ts-wrap ts-ready"><div class="ts-viewport portholeSlider-wrap" style="width: 1017px; height: 423.75px;"><ul id="main-slideshow-content" class="rsHomePorthole ts-cont" style="transform: translate3d(-1017px, 0px, 0px); visibility: visible; transition: all 418.904ms cubic-bezier(0.445, 0.05, 0.55, 0.95) 0s;"><li class="ts-slide ts-loaded" style="left: 0px;"><img class="preload-me aspect" src="./gumimg_files/Tandematic-Gummer.png" srcset="https://tandematic.com/wp-content/uploads/2019/05/Tandematic-Gummer.png 1990w" style="--ratio: 1990 / 1492; width: 1017px; height: 763px; margin-left: 0px; margin-top: -170px;" sizes="(max-width: 1990px) 100vw, 1990px" data-rstmb="https://tandematic.com/wp-content/uploads/2019/05/Tandematic-Gummer-150x150.png" alt="" width="1990" height="1492"></li><li class="ts-slide ts-loaded" style="left: 1017px;"><img class="preload-me aspect" src="./gumimg_files/Representative-Gummer-Pictures-20071217-003.jpg" srcset="https://tandematic.com/wp-content/uploads/2019/05/Representative-Gummer-Pictures-20071217-003.jpg 2048w" style="--ratio: 2048 / 1536; width: 1017px; height: 763px; margin-left: 0px; margin-top: -170px;" sizes="(max-width: 2048px) 100vw, 2048px" data-rstmb="https://tandematic.com/wp-content/uploads/2019/05/Representative-Gummer-Pictures-20071217-003-150x150.jpg" alt="" width="2048" height="1536"></li><li class="ts-slide ts-loaded" style="left: 2034px;"><img class="preload-me aspect" src="./gumimg_files/gummer.png" srcset="https://tandematic.com/wp-content/uploads/2019/05/gummer.png 2382w" style="--ratio: 2382 / 1696; width: 1017px; height: 725px; margin-left: 0px; margin-top: -151px;" sizes="(max-width: 2382px) 100vw, 2382px" data-rstmb="https://tandematic.com/wp-content/uploads/2019/05/gummer-150x150.png" alt="" width="2382" height="1696"></li><li class="ts-slide ts-loaded" style="left: 3051px;"><img class="preload-me aspect" src="./gumimg_files/Representative-Gummer-Pictures-20070823-017.jpg" srcset="https://tandematic.com/wp-content/uploads/2019/05/Representative-Gummer-Pictures-20070823-017.jpg 1533w" style="--ratio: 1533 / 1518; width: 1017px; height: 1008px; margin-left: 0px; margin-top: -293px;" sizes="(max-width: 1533px) 100vw, 1533px" data-rstmb="https://tandematic.com/wp-content/uploads/2019/05/Representative-Gummer-Pictures-20070823-017-150x150.jpg" alt="" width="1533" height="1518"></li></ul><div class="leftArrow"></div><div class="rightArrow"></div></div><div class="psThumbs"><div class="psThumbsContainer" style="transform: translateY(-40px);"><div class="ps-thumb-img psNavPrev"><img class=" preload-me aspect" src="./gumimg_files/Tandematic-Gummer-150x150.png" width="150" height="150" alt=""></div><div class="ps-thumb-img psNavSelected"><img class=" preload-me aspect" src="./gumimg_files/Representative-Gummer-Pictures-20071217-003-150x150.jpg" width="150" height="150" alt=""></div><div class="ps-thumb-img psNavNext"><img class=" preload-me aspect" src="./gumimg_files/gummer-150x150.png" width="150" height="150" alt=""></div><div class="ps-thumb-img psNavVis"><img class=" preload-me aspect" src="./gumimg_files/Representative-Gummer-Pictures-20070823-017-150x150.jpg" width="150" height="150" alt=""></div></div><div class="progress-wrapper"><div class="progress-mask"><div class="progress-spinner-left" style="animation-duration: 4000ms;"></div></div><div class="progress-mask"><div class="progress-spinner-right" style="animation-duration: 4000ms;"></div></div><div class="progress-controls"></div></div></div></div></div>
+
+<div id="main" class="sidebar-none sidebar-divider-vertical">
+
+	
+	<div class="main-gradient"></div>
+	<div class="wf-wrap">
+	<div class="wf-container-main">
+
+	
+
+			<div id="content" class="content" role="main">
+
+				
+	<article id="post-52593" class="project-post post-52593 dt_portfolio type-dt_portfolio status-publish has-post-thumbnail description-off">
+
+		<div class="project-content"><div class="wpb-content-wrapper"><div class="vc_row wpb_row vc_row-fluid"><div class="wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner"><div class="wpb_wrapper">
+	<div class="wpb_text_column wpb_content_element ">
+		<div class="wpb_wrapper">
+			<h3 class="DOT">Tandematic Gum System</h3>
+<ul>
+<li class="DOT">Application of gum to upper surface of fabric results in trim waste reduction (yield increases) not possible with conventional under-side designs.</li>
+<li class="DOT">Gum thickness adjustable (via repeatable transfer roll) while machine is running without changing gum composition.</li>
+<li class="DOT">Gum is transferred to tank by a peristaltic pump with level controlled by automatic overflow.</li>
+<li class="DOT">Remote stop / start of gumming from stenter operator platform. On stoppage (line stop or operator selected) a short water flushing cycle prevents hardening of gum.</li>
+</ul>
+
+		</div>
+	</div>
+</div></div></div></div><div class="vc_row wpb_row vc_row-fluid"><div class="wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner"><div class="wpb_wrapper"><div class="vc_btn3-container vc_btn3-inline"><a class="vc_general vc_btn3 vc_btn3-size-md vc_btn3-shape-rounded vc_btn3-style-modern vc_btn3-color-grey" href="http://tandematic.com/wp-content/uploads/2019/06/Tandematic-Brochure-2019.pdf" title="http://tandematic.com/wp-content/uploads/2019/06/Tandematic-Brochure-2019.pdf" target="_blank">Download Our Brochure</a></div></div></div></div></div>
+</div></div><nav class="navigation post-navigation" role="navigation"><h2 class="screen-reader-text">Project navigation</h2><div class="nav-links"><a class="nav-previous" href="https://tandematic.com/project/other-equipment/" rel="prev"><svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 16 16" style="enable-background:new 0 0 16 16;" xml:space="preserve"><path class="st0" d="M11.4,1.6c0.2,0.2,0.2,0.5,0,0.7c0,0,0,0,0,0L5.7,8l5.6,5.6c0.2,0.2,0.2,0.5,0,0.7s-0.5,0.2-0.7,0l-6-6c-0.2-0.2-0.2-0.5,0-0.7c0,0,0,0,0,0l6-6C10.8,1.5,11.2,1.5,11.4,1.6C11.4,1.6,11.4,1.6,11.4,1.6z"></path></svg><span class="meta-nav" aria-hidden="true">Previous</span><span class="screen-reader-text">Previous project:</span><span class="post-title h4-size">Other Equipment</span></a><a class="nav-next" href="https://tandematic.com/project/rail-mounted-guider/" rel="next"><svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 16 16" style="enable-background:new 0 0 16 16;" xml:space="preserve"><path class="st0" d="M4.6,1.6c0.2-0.2,0.5-0.2,0.7,0c0,0,0,0,0,0l6,6c0.2,0.2,0.2,0.5,0,0.7c0,0,0,0,0,0l-6,6c-0.2,0.2-0.5,0.2-0.7,0s-0.2-0.5,0-0.7L10.3,8L4.6,2.4C4.5,2.2,4.5,1.8,4.6,1.6C4.6,1.6,4.6,1.6,4.6,1.6z"></path></svg><span class="meta-nav" aria-hidden="true">Next</span><span class="screen-reader-text">Next project:</span><span class="post-title h4-size">Rail Mounted Trimmer</span></a></div></nav>
+	</article>
+
+
+			</div><!-- #content -->
+
+			
+			</div><!-- .wf-container -->
+		</div><!-- .wf-wrap -->
+
+	
+	</div><!-- #main -->
+
+	
+
+
+	<!-- !Footer -->
+	<footer id="footer" class="footer solid-bg">
+
+		
+			<div class="wf-wrap">
+				<div class="wf-container-footer">
+					<div class="wf-container">
+						<section id="media_image-3" class="widget widget_media_image wf-cell wf-1-5"><a href="http://tandematic.com/"><img width="299" height="117" src="./gumimg_files/tandematic_med.png" class="image wp-image-52541  attachment-full size-full" alt="" style="max-width: 100%; height: auto;" decoding="async" loading="lazy"></a></section><section id="media_image-4" class="widget widget_media_image wf-cell wf-1-5"><a href="http://navisglobal.com/"><img width="311" height="123" src="./gumimg_files/Navis_med.png" class="image wp-image-52542  attachment-full size-full" alt="" style="max-width: 100%; height: auto;" decoding="async" loading="lazy" srcset="https://tandematic.com/wp-content/uploads/2018/12/Navis_med.png 311w, https://tandematic.com/wp-content/uploads/2018/12/Navis_med-300x119.png 300w" sizes="(max-width: 311px) 100vw, 311px"></a></section><section id="media_image-5" class="widget widget_media_image wf-cell wf-1-5"><a href="http://consultexsystems.com/"><img width="216" height="139" src="./gumimg_files/consultex_med.png" class="image wp-image-52540  attachment-full size-full" alt="" style="max-width: 100%; height: auto;" decoding="async" loading="lazy"></a></section><section id="media_image-2" class="widget widget_media_image wf-cell wf-1-5"><a href="http://navisglobal.com/project/stenter/"><img width="208" height="148" src="./gumimg_files/WM-Small.png" class="image wp-image-52675  attachment-full size-full" alt="" style="max-width: 100%; height: auto;" decoding="async" loading="lazy"></a></section><section id="media_image-6" class="widget widget_media_image wf-cell wf-1-5"><a href="http://gastonsystems.com/"><img width="300" height="79" src="./gumimg_files/Gaston-Systems-logo-300x79.png" class="image wp-image-52767  attachment-medium size-medium" alt="" style="max-width: 100%; height: auto;" decoding="async" loading="lazy" srcset="https://tandematic.com/wp-content/uploads/2022/05/Gaston-Systems-logo-300x79.png 300w, https://tandematic.com/wp-content/uploads/2022/05/Gaston-Systems-logo-1024x269.png 1024w, https://tandematic.com/wp-content/uploads/2022/05/Gaston-Systems-logo-768x202.png 768w, https://tandematic.com/wp-content/uploads/2022/05/Gaston-Systems-logo-e1652462634108.png 100w" sizes="(max-width: 300px) 100vw, 300px"></a></section>					</div><!-- .wf-container -->
+				</div><!-- .wf-container-footer -->
+			</div><!-- .wf-wrap -->
+
+			
+<!-- !Bottom-bar -->
+<div id="bottom-bar" class="logo-left" role="contentinfo">
+    <div class="wf-wrap">
+        <div class="wf-container-bottom">
+
+			
+            <div class="wf-float-right">
+
+				<div class="bottom-text-block"><p>Copyright Navis TubeTex.  All Rights Reserved.</p>
+</div>
+            </div>
+
+        </div><!-- .wf-container-bottom -->
+    </div><!-- .wf-wrap -->
+</div><!-- #bottom-bar -->
+	</footer><!-- #footer -->
+
+<a href="https://tandematic.com/project/gum-application-system/#" class="scroll-top on"><svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 16 16" style="enable-background:new 0 0 16 16;" xml:space="preserve">
+<path d="M11.7,6.3l-3-3C8.5,3.1,8.3,3,8,3c0,0,0,0,0,0C7.7,3,7.5,3.1,7.3,3.3l-3,3c-0.4,0.4-0.4,1,0,1.4c0.4,0.4,1,0.4,1.4,0L7,6.4
+	V12c0,0.6,0.4,1,1,1s1-0.4,1-1V6.4l1.3,1.3c0.4,0.4,1,0.4,1.4,0C11.9,7.5,12,7.3,12,7S11.9,6.5,11.7,6.3z"></path>
+</svg><span class="screen-reader-text">Go to Top</span></a>
+
+</div><!-- #page -->
+
+<div id="glt-translate-trigger"><span class="notranslate">Translate »</span></div><div id="glt-toolbar"></div><div id="flags" style="display:none" class="size18"><ul id="sortable" class="ui-sortable"><li id="English"><a href="https://tandematic.com/project/gum-application-system/#" title="English" class="nturl notranslate en flag English" data-lang="English"></a></li></ul></div><div id="glt-footer"><div id="google_language_translator" class="default-language-en"><div class="skiptranslate goog-te-gadget" dir="ltr" style=""><div id=":0.targetLanguage"><select class="goog-te-combo" aria-label="Language Translate Widget"><option value="">Select Language</option></select></div>Powered by <span style="white-space:nowrap"><a class="VIpgJd-ZVi9od-l4eHX-hSRGPd" href="https://translate.google.com/" target="_blank"><img src="./gumimg_files/googlelogo_color_42x16dp.png" width="37px" height="14px" style="padding-right: 3px" alt="Google Translate">Translate</a></span></div></div></div><script>function GoogleLanguageTranslatorInit() { new google.translate.TranslateElement({pageLanguage: 'en', includedLanguages:'en', autoDisplay: false}, 'google_language_translator');}</script><script type="text/html" id="wpb-modifications"> window.wpbCustomElement = 1; </script><link rel="stylesheet" id="dt-porthole-slider-css" href="./gumimg_files/photo-scroller.min.css" media="all">
+<script src="./gumimg_files/main.min.js.download" id="dt-main-js"></script>
+<script src="./gumimg_files/scripts.js.download" id="scripts-js"></script>
+<script src="./gumimg_files/element.js.download" id="scripts-google-js"></script>
+<script src="./gumimg_files/legacy.min.js.download" id="dt-legacy-js"></script>
+<script src="./gumimg_files/jquery-mousewheel.min.js.download" id="jquery-mousewheel-js"></script>
+<script src="./gumimg_files/custom-scrollbar.min.js.download" id="the7-custom-scrollbar-js"></script>
+<script src="./gumimg_files/post-type.min.js.download" id="the7-core-js"></script>
+<script src="./gumimg_files/js_composer_front.min.js.download" id="wpb_composer_front_js-js"></script>
+<script src="./gumimg_files/photo-scroller.min.js.download" id="dt-porthole-slider-js"></script>
+<script></script>
+<div class="pswp" tabindex="-1" role="dialog" aria-hidden="true">
+	<div class="pswp__bg"></div>
+	<div class="pswp__scroll-wrap">
+		<div class="pswp__container">
+			<div class="pswp__item"></div>
+			<div class="pswp__item"></div>
+			<div class="pswp__item"></div>
+		</div>
+		<div class="pswp__ui pswp__ui--hidden">
+			<div class="pswp__top-bar">
+				<div class="pswp__counter"></div>
+				<button class="pswp__button pswp__button--close" title="Close (Esc)" aria-label="Close (Esc)"></button>
+				<button class="pswp__button pswp__button--share" title="Share" aria-label="Share"></button>
+				<button class="pswp__button pswp__button--fs" title="Toggle fullscreen" aria-label="Toggle fullscreen"></button>
+				<button class="pswp__button pswp__button--zoom" title="Zoom in/out" aria-label="Zoom in/out"></button>
+				<div class="pswp__preloader">
+					<div class="pswp__preloader__icn">
+						<div class="pswp__preloader__cut">
+							<div class="pswp__preloader__donut"></div>
+						</div>
+					</div>
+				</div>
+			</div>
+			<div class="pswp__share-modal pswp__share-modal--hidden pswp__single-tap">
+				<div class="pswp__share-tooltip"></div> 
+			</div>
+			<button class="pswp__button pswp__button--arrow--left" title="Previous (arrow left)" aria-label="Previous (arrow left)">
+			</button>
+			<button class="pswp__button pswp__button--arrow--right" title="Next (arrow right)" aria-label="Next (arrow right)">
+			</button>
+			<div class="pswp__caption">
+				<div class="pswp__caption__center"></div>
+			</div>
+		</div>
+	</div>
+</div>
+
+
+<div class="mobile-sticky-header-overlay"></div><div id="phantom" class="masthead inline-header right widgets full-height shadow-decoration shadow-mobile-header-decoration small-mobile-menu-icon dt-parent-menu-clickable show-sub-menu-on-hover show-mobile-logo masthead-mobile-header hide-phantom" style=""><div class="ph-wrap with-logo"><div class="logo-box"><a href="https://tandematic.com/"><img class=" preload-me" src="./gumimg_files/Tandematic.png" srcset="https://tandematic.com/wp-content/uploads/2018/09/Tandematic.png 311w, https://tandematic.com/wp-content/uploads/2018/09/Tandematic.png 311w" width="311" height="122" sizes="311px" alt="Tandematic"> </a></div><div class="menu-box"><ul class="main-nav outside-item-remove-margin"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-52358 first depth-0"><a href="https://tandematic.com/" data-level="1"><span class="menu-item-text"><span class="menu-text">HOME</span></span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-52291 has-children depth-0"><a href="https://tandematic.com/about-us/" data-level="1"><span class="menu-item-text"><span class="menu-text">ABOUT</span></span></a><ul class="sub-nav hover-style-bg level-arrows-on"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-52300 first depth-1"><a href="https://tandematic.com/client-testimonials/" data-level="2"><span class="menu-item-text"><span class="menu-text">Client Testimonials</span></span></a></li> </ul></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-52396 depth-0"><a href="https://tandematic.com/equipment/" data-level="1"><span class="menu-item-text"><span class="menu-text">EQUIPMENT</span></span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-52567 depth-0"><a href="https://tandematic.com/media/" data-level="1"><span class="menu-item-text"><span class="menu-text">MEDIA</span></span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-52289 depth-0"><a href="https://tandematic.com/blog/blog-masonry/01-blog-masonry-classic/news/" data-level="1"><span class="menu-item-text"><span class="menu-text">NEWS</span></span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-52292 last depth-0"><a href="https://tandematic.com/pages/contact/contact/" data-level="1"><span class="menu-item-text"><span class="menu-text">CONTACT</span></span></a></li> </ul></div><div class="widget-box"></div></div></div><div class="iso-preloader dt-posts-preload dt-posts-preload-active" style="display: none;"><div class="dt-posts-preload-activity"></div></div><div id="goog-gt-tt" class="VIpgJd-yAWNEb-L7lbkb skiptranslate" style="border-radius: 12px; margin: 0 0 0 -23px; padding: 0; font-family: &#39;Google Sans&#39;, Arial, sans-serif;" data-id=""><div id="goog-gt-vt" class="VIpgJd-yAWNEb-hvhgNd"><div class=" VIpgJd-yAWNEb-hvhgNd-l4eHX-i3jM8c"><img src="./gumimg_files/24px.svg" width="24" height="24" alt=""></div><div class=" VIpgJd-yAWNEb-hvhgNd-k77Iif-i3jM8c"><div class="VIpgJd-yAWNEb-hvhgNd-IuizWc" dir="ltr">Original text</div><div id="goog-gt-original-text" class="VIpgJd-yAWNEb-nVMfcd-fmcmS VIpgJd-yAWNEb-hvhgNd-axAV1"></div></div><div class="VIpgJd-yAWNEb-hvhgNd-N7Eqid ltr"><div class="VIpgJd-yAWNEb-hvhgNd-N7Eqid-B7I4Od ltr" dir="ltr"><div class="VIpgJd-yAWNEb-hvhgNd-UTujCb">Rate this translation</div><div class="VIpgJd-yAWNEb-hvhgNd-eO9mKe">Your feedback will be used to help improve Google Translate</div></div><div class="VIpgJd-yAWNEb-hvhgNd-xgov5 ltr"><button id="goog-gt-thumbUpButton" type="button" class="VIpgJd-yAWNEb-hvhgNd-bgm6sf" title="Good translation" aria-label="Good translation" aria-pressed="false"><span id="goog-gt-thumbUpIcon"><svg width="24" height="24" viewBox="0 0 24 24" focusable="false" class="VIpgJd-yAWNEb-hvhgNd-THI6Vb NMm5M"><path d="M21 7h-6.31l.95-4.57.03-.32c0-.41-.17-.79-.44-1.06L14.17 0S7.08 6.85 7 7H2v13h16c.83 0 1.54-.5 1.84-1.22l3.02-7.05c.09-.23.14-.47.14-.73V9c0-1.1-.9-2-2-2zM7 18H4V9h3v9zm14-7l-3 7H9V8l4.34-4.34L12 9h9v2z"></path></svg></span><span id="goog-gt-thumbUpIconFilled"><svg width="24" height="24" viewBox="0 0 24 24" focusable="false" class="VIpgJd-yAWNEb-hvhgNd-THI6Vb NMm5M"><path d="M21 7h-6.31l.95-4.57.03-.32c0-.41-.17-.79-.44-1.06L14.17 0S7.08 6.85 7 7v13h11c.83 0 1.54-.5 1.84-1.22l3.02-7.05c.09-.23.14-.47.14-.73V9c0-1.1-.9-2-2-2zM5 7H1v13h4V7z"></path></svg></span></button><button id="goog-gt-thumbDownButton" type="button" class="VIpgJd-yAWNEb-hvhgNd-bgm6sf" title="Poor translation" aria-label="Poor translation" aria-pressed="false"><span id="goog-gt-thumbDownIcon"><svg width="24" height="24" viewBox="0 0 24 24" focusable="false" class="VIpgJd-yAWNEb-hvhgNd-THI6Vb NMm5M"><path d="M3 17h6.31l-.95 4.57-.03.32c0 .41.17.79.44 1.06L9.83 24s7.09-6.85 7.17-7h5V4H6c-.83 0-1.54.5-1.84 1.22l-3.02 7.05c-.09.23-.14.47-.14.73v2c0 1.1.9 2 2 2zM17 6h3v9h-3V6zM3 13l3-7h9v10l-4.34 4.34L12 15H3v-2z"></path></svg></span><span id="goog-gt-thumbDownIconFilled"><svg width="24" height="24" viewBox="0 0 24 24" focusable="false" class="VIpgJd-yAWNEb-hvhgNd-THI6Vb NMm5M"><path d="M3 17h6.31l-.95 4.57-.03.32c0 .41.17.79.44 1.06L9.83 24s7.09-6.85 7.17-7V4H6c-.83 0-1.54.5-1.84 1.22l-3.02 7.05c-.09.23-.14.47-.14.73v2c0 1.1.9 2 2 2zm16 0h4V4h-4v13z"></path></svg></span></button></div></div><div id="goog-gt-votingHiddenPane" class="VIpgJd-yAWNEb-hvhgNd-aXYTce"><form id="goog-gt-votingForm" action="https://translate.googleapis.com/translate_voting?client=te" method="post" target="votingFrame" class="VIpgJd-yAWNEb-hvhgNd-aXYTce"><input type="text" name="sl" id="goog-gt-votingInputSrcLang"><input type="text" name="tl" id="goog-gt-votingInputTrgLang"><input type="text" name="query" id="goog-gt-votingInputSrcText"><input type="text" name="gtrans" id="goog-gt-votingInputTrgText"><input type="text" name="vote" id="goog-gt-votingInputVote"></form><iframe name="votingFrame" frameborder="0" src="./gumimg_files/saved_resource.html"></iframe></div></div></div><div class="tool-container tool-top toolbar-primary" style="opacity: 0; display: none;"><div class="tool-items"><a href="https://tandematic.com/project/gum-application-system/#" title="English" class="nturl notranslate en flag English tool-item" data-lang="English"></a></div><div class="arrow"></div></div><div class="VIpgJd-ZVi9od-aZ2wEe-wOHMyf"><div class="VIpgJd-ZVi9od-aZ2wEe-OiiCO"><svg xmlns="http://www.w3.org/2000/svg" class="VIpgJd-ZVi9od-aZ2wEe" width="96px" height="96px" viewBox="0 0 66 66"><circle class="VIpgJd-ZVi9od-aZ2wEe-Jt5cK" fill="none" stroke-width="6" stroke-linecap="round" cx="33" cy="33" r="30"></circle></svg></div></div></body></html>
